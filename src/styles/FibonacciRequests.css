@@ -1,0 +1,48 @@
+.request-container {
+    width: 500px;
+    margin: auto;
+}
+
+.fib-input {
+    border: 1px solid #c0c0c0;
+    border-radius: 4px;
+    padding: 6px 12px;
+    outline: none;
+}
+
+/* remove input arrows */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.request-button {
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px 1px #c0c0c0;
+    margin-left: 10px;
+    padding: 5px 15px;
+    cursor: pointer;
+    background: #FFFFFF;
+    color: #838383;
+}
+
+.request-button:hover {
+    background: #f8f8f8;
+}
+
+.result-value {
+    background: #ffffff;
+    border: 2px solid cornflowerblue;
+    width: 285px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    color: #5e5e5e;
+    font-weight: 500;
+    margin: auto;
+    margin-top: 20px;
+}
