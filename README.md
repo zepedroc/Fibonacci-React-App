@@ -1,4 +1,4 @@
-# Sync_VR_React_App
+# Fibonacci_React_App
 
 ReactJS app that connects with Fibonacci API.
 
