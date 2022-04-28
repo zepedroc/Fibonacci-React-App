@@ -1,8 +1,6 @@
 # Sync_VR_React_App
 
-App running on https://dazzling-cajeta-27b8d9.netlify.app/
-
-App hosted on Netlify because of its free services and good recomendations online.
+ReactJS app that connects with Fibonacci API.
 
 ## ReactJS
 
